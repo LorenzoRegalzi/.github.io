@@ -5,7 +5,7 @@ I'm a passionate **Developer** based in Italy, always on the lookout for new pro
 ## 🚀 Technologies & Skills
 
 - **Frontend**: Angular, React, Vue, Next.js, HTML, CSS
-- **Backend**: Node.js, Python, C#, Java
+- **Backend**: Node.js, Python
 - **Databases**: MongoDB, SQL
 - **Mobile Development**: React Native, Ionic
 - **Version Control**: Git, GitLab
@@ -26,7 +26,6 @@ I’m currently focused on projects involving artificial intelligence and web de
 
 Feel free to connect with me!  
 - 📧 Email: lorenzo.regalzi@gmail.com  
-- 💼 [LinkedIn](your-linkedin-url)  
-- 🌐 [My Portfolio](your-portfolio-url)
+- 💼 [LinkedIn](https://www.linkedin.com/in/lorenzo-regalzi/)  
 
 Thank you for visiting my profile! Let’s collaborate and create something amazing together! 🚀
